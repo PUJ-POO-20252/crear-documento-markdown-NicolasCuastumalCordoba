@@ -19,7 +19,7 @@ en formato Markdown.
 
 ## Cosas Sobre mi
 
-Tengo 19 años y me apasiona la ingeniería en sistemas. Vengo de la UAO, donde cursé hasta quinto semestre de Ingeniería Informática, pero se me presentó la oportunidad de cambiarme y ahora estudio en la Javeriana. Me gusta mucho la música (aunque no bailar), amo la fotografía y espero disfrutar al máximo esta nueva etapa.
+Tengo 19 años y me apasiona la ingeniería en sistemas. Vengo de la UAO, donde cursé hasta quinto semestre de Ingeniería Informática, pero se me presentó la oportunidad de cambiarme y ahora estudio en la Javeriana. Me gusta mucho la música (aunque no me gusta bailar), amo la fotografía y espero disfrutar al máximo esta nueva etapa.
 - *Tengo dos perros*
 - *Soy de Cali*
 - *Me gustan los Videojuegos*
